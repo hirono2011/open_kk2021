@@ -1,0 +1,8 @@
+base ❯ git pull
+Updating b0d61ca..a42464f
+Fast-forward
+ 2021-11-11_告発状.docx                                    | Bin 0 -> 25269 bytes
+ 新規 Microsoft PowerPoint プレゼンテーション.pptx | Bin 0 -> 104374 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 2021-11-11_告発状.docx
+ create mode 100644 新規 Microsoft PowerPoint プレゼンテーション.pptx
